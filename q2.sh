@@ -1,0 +1,1 @@
+sudo ps -ef | egrep 'tty|pts'
